@@ -25,7 +25,7 @@ body {
     padding-bottom: 1rem;
     width: 100vw;
     text-align: center;
-    margin: 1rem 0 0 0;
+    margin: .5rem 0 0 0;
 }
 
 ul li {
@@ -59,6 +59,7 @@ input[type="checkbox"]:checked ~ .dropdown-content {
     display: block;
 }
 
+
 /* Header */
 .head {
     background-color: #1e2029;
@@ -84,7 +85,7 @@ input[type="checkbox"]:checked ~ .dropdown-content {
     font-weight: 700;
     font-size: 3.5rem;
     border-bottom: 3px solid #ffffff;
-    padding-bottom: .5rem;
+    padding-bottom: .1rem;
     letter-spacing: 2px;
 }
 
@@ -123,8 +124,8 @@ input[type="checkbox"]:checked ~ .dropdown-content {
 }
 
 .about-title {
-    font-size: 2.2rem;
-    margin: .5rem 0;
+    font-size: 2.5rem;
+    margin: 1rem 0 1.5rem 0;
     letter-spacing: 2px;
 }
 
@@ -142,8 +143,8 @@ input[type="checkbox"]:checked ~ .dropdown-content {
 #gallery h2 {
     color: #ffffff;
     text-align: center;
-    margin: 2rem 0 2.3rem 0;
-    font-size: 2.2rem;
+    margin: 2rem 0 1.8rem 0;
+    font-size: 2.5rem;
     letter-spacing: 2px;
 }
 
@@ -181,7 +182,6 @@ input[type="checkbox"]:checked ~ .dropdown-content {
 
 form input[type="text"] {
     color: #ffffff;
-    display: block;
     padding: .75rem;
     width: 78vw;
     background-color: #1e2029;
@@ -199,7 +199,7 @@ a.sign-up {
     padding: .5rem 1.1rem;
     border-radius: .5rem;
     font-size: 1.2rem;
-    margin: 1.5rem 0 .5rem;
+    margin: 1.5rem 0 1rem;
 }
 
 a.sign-up:visited {
