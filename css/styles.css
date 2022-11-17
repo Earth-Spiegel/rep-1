@@ -25,13 +25,13 @@ body {
     padding-bottom: 1rem;
     width: 100vw;
     text-align: center;
-    margin: -.5rem 0 0 0;
+    margin: .3rem 0 0 0;
 }
 
 ul li {
     margin: .4rem;
     font-size: 1.8rem;
-    margin: 1rem;
+    margin: .5rem 0 1.2rem 0;
 }
 
 .nav-link {
@@ -83,11 +83,11 @@ input[type="checkbox"]:checked ~ .dropdown-content {
 
 .dropdown-nav label {
     font-weight: 700;
-    font-size: 3.5rem;
+    font-size: 3rem;
     border-bottom: 3px solid #ffffff;
     padding-bottom: 2px;
     letter-spacing: 2px;
-    line-height: 1.8;
+    line-height: 1.7;
 }
 
 .header-main {
@@ -102,12 +102,11 @@ input[type="checkbox"]:checked ~ .dropdown-content {
     text-align: center;
     font-size: 2rem;
     line-height: 1.6;
-    margin-top: ;
 }
 
 .quote-author {
     font-weight: 700;
-    margin: 1.3rem 0 4.5rem 0;
+    margin: 1.3rem 0 10.2rem 0;
 }
 
 /* About */
@@ -126,7 +125,7 @@ input[type="checkbox"]:checked ~ .dropdown-content {
 
 .about-title {
     font-size: 2.5rem;
-    margin: 1.5rem 0 2.3rem 0;
+    margin: 1.2rem 0 2.3rem 0;
     letter-spacing: 2px;
 }
 
@@ -144,7 +143,7 @@ input[type="checkbox"]:checked ~ .dropdown-content {
 #gallery h2 {
     color: #ffffff;
     text-align: center;
-    margin: 2rem 0 1.3rem 0;
+    margin: 2rem 0 1.4rem 0;
     font-size: 2.5rem;
     letter-spacing: 2px;
 }
